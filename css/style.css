@@ -4,3 +4,47 @@ footer{
 .verde-boton{
     background-color: rgb(39, 168, 68);
 }
+.pd{
+    padding: 25px;
+}
+nav{
+    background-color: rgba(185, 238, 185, 0.779);
+}
+form{
+    border-radius: 5px;
+    margin: 10;
+    padding: 20px;
+    background-color: white;
+}
+.modal-content{
+    padding: 13px;
+    background-color: rgb(245, 245, 245);
+}
+.modal-header{
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+}
+.tituloForm{
+    font-size: 30px;
+}
+.btn-home {
+    color: white;
+    background-color: #29a742;
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+   
+}
+
+.verdeclaro{
+    background-color: #e5fae9;
+}
+tr:nth-child(even) {
+    text-align: start;
+    background-color: #e5fae9;
+  }
+tr:nth-child(odd) {
+    text-align: start;
+    background-color: #d8eddc;   
+  }
